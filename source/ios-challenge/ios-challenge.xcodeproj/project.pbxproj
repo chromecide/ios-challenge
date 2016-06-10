@@ -17,6 +17,10 @@
 		37C43AF11D0A9A6000B61558 /* APIAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C43AF01D0A9A6000B61558 /* APIAdapter.swift */; };
 		37C43AF41D0A9AE200B61558 /* tick.png in Resources */ = {isa = PBXBuildFile; fileRef = 37C43AF31D0A9AE200B61558 /* tick.png */; };
 		37C43AF61D0A9B3F00B61558 /* DataAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C43AF51D0A9B3F00B61558 /* DataAPI.swift */; };
+		37C43AF71D0A9DBE00B61558 /* DataAPI.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C43AF51D0A9B3F00B61558 /* DataAPI.swift */; };
+		37C43AF81D0AA18E00B61558 /* APIAdapter.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C43AF01D0A9A6000B61558 /* APIAdapter.swift */; };
+		37C43AF91D0AA1F500B61558 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 37C43AC51D0A999C00B61558 /* Main.storyboard */; };
+		37C43AFA1D0AA39400B61558 /* UserListController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 37C43AC31D0A999C00B61558 /* UserListController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -265,6 +269,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37C43AF91D0AA1F500B61558 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -293,6 +298,9 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				37C43AF81D0AA18E00B61558 /* APIAdapter.swift in Sources */,
+				37C43AF71D0A9DBE00B61558 /* DataAPI.swift in Sources */,
+				37C43AFA1D0AA39400B61558 /* UserListController.swift in Sources */,
 				37C43AD71D0A999C00B61558 /* ios_challengeTests.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;

@@ -41,7 +41,6 @@ class httpAdapter :APIAdapter{
                         
                         let parsedJSON = self.parseJSONResponse(unparsedString as! String)
                         callback(parsedJSON,nil)
-
                     }
                     
                     
