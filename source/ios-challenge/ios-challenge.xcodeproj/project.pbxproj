@@ -436,6 +436,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "ios-challenge/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chromecide.ios-challenge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -447,6 +448,7 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				INFOPLIST_FILE = "ios-challenge/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 9.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = "com.chromecide.ios-challenge";
 				PRODUCT_NAME = "$(TARGET_NAME)";
@@ -520,6 +522,7 @@
 				37C43AE81D0A999C00B61558 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37C43AE91D0A999C00B61558 /* Build configuration list for PBXNativeTarget "ios-challengeTests" */ = {
 			isa = XCConfigurationList;
@@ -528,6 +531,7 @@
 				37C43AEB1D0A999C00B61558 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		37C43AEC1D0A999C00B61558 /* Build configuration list for PBXNativeTarget "ios-challengeUITests" */ = {
 			isa = XCConfigurationList;
@@ -536,6 +540,7 @@
 				37C43AEE1D0A999C00B61558 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
